@@ -1,0 +1,70 @@
+[
+  {
+    "date": "2019-12-28",
+    "idvp_code": "XZ 833160-05",
+    "desc": "Noval Black Ruby Reserve",
+    "delta": 6
+  },
+  {
+    "date": "2019-12-28",
+    "idvp_code": "RS 291365-05",
+    "desc": "Noval 10-year Tawny",
+    "delta": 6
+  },
+  {
+    "date": "2019-12-29",
+    "desc": "Sample",
+    "delta": -2
+  },
+  {
+    "date": "2020-01-24",
+    "idvp_code": "YA 837091-05",
+    "desc": "Sandeman 10-year Tawny",
+    "delta": 6
+  },
+  {
+    "date": "2020-01-26",
+    "desc": "Sample",
+    "delta": -2
+  },
+  {
+    "date": "2020-02-05",
+    "idvp_code": "YR 153763-05",
+    "desc": "Fonseca Bin 27 Ruby",
+    "delta": 6
+  },
+  {
+    "date": "2020-02-16",
+    "idvp_code": "AM 435978-06",
+    "desc": "Croft Purple Velvet Reserve",
+    "delta": 6
+  },
+  {
+    "date": "2020-02-23",
+    "desc": "Valentine's Day",
+    "delta": -4
+  },
+  {
+    "date": "2020-02-23",
+    "idvp_code": "ZJ 558523-05",
+    "desc": "Quinta Das Varvalhas Ruby Reserve",
+    "delta": 6
+  },
+  {
+    "date": "2020-02-23",
+    "desc": "Opening of Penfold's Austrailian Port",
+    "delta": -10
+  },
+  {
+    "date": "2020-03-01",
+    "idvp_code": "NURIOOTPA",
+    "desc": "Penfold's Grandfather 20-year Tawny",
+    "delta": 2
+  },
+  {
+    "date": "2020-04-19",
+    "idvp_code": "UW182896-05",
+    "desc": "Taylor Fladgate 10-year Tawny",
+    "delta": 6
+  }
+]
