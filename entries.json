@@ -66,5 +66,10 @@
     "idvp_code": "UW182896-05",
     "desc": "Taylor Fladgate 10-year Tawny",
     "delta": 6
+  },
+  {
+    "date": "2022-06-26",
+    "desc": "Sample",
+    "delta": -2
   }
 ]
